@@ -1,0 +1,27 @@
+.emailText {
+  font-weight: bold;
+  color: blue;
+}
+.dateText {
+  color: brown;
+}
+.messageText {
+  font-style: italic;
+  color: green;
+}
+.marginTop {
+  margin: auto;
+  margin-top: 40px;
+}
+.contenedor {
+  border-radius: 20px;
+  background-color: lightgray;
+  padding: 30px !important;
+}
+label{
+  font-weight: bold;
+  font-size: 20px;
+}
+.letrasTabla{
+  color: black;
+}
